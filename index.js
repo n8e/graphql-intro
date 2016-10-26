@@ -1,6 +1,6 @@
 // require express for API functionality
 var express = require('express');
-var schema = require('./schema');
+var schema = require('./src/schema');
 // new dependencies
 var gql = require('graphql');
 var bodyParser = require('body-parser');
